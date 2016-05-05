@@ -1,4 +1,5 @@
 # josephus.asm# based on http://rosetacode.org/wiki/Josephus_problem#C
+# designed as test file
 
 entry:          j main
 
