@@ -1,5 +1,5 @@
 # josephus.asm# based on http://rosetacode.org/wiki/Josephus_problem#C
-# designed as test file
+# designed as test file, puts 0xCAFEBABE in $at on success
 
 entry:          j main
 
